@@ -1,0 +1,10 @@
+git log
+git commit --amend
+
+master가 로컬의 첫번째 폴더와 똑같은 의미
+
+git branch BRANCH_NAME
+git checkout BRANCH_NAME
+git branch -D BRANCH_NAME
+
+git reset
